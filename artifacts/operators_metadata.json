@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "calculator",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"arithmetic-operators.sol": "operators"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"arithmetic-operators.sol": {
+			"keccak256": "0x1fae1c0ab9fc409da53adc2f053057f888a22fdb84faee5c84d9563b10a60059",
+			"urls": [
+				"bzz-raw://b06d5ebaa14e82dde6b2013da34c9aed1bdf748d99a98bc893a52f5bf6226085",
+				"dweb:/ipfs/QmWiwNZ2J51FbUzhPDePB6S23HGAH2SUBQtafUKnYcqrnQ"
+			]
+		}
+	},
+	"version": 1
+}
