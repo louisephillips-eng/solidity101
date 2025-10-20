@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "logic",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"logical-operators.sol": "LogicalOperators"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"logical-operators.sol": {
+			"keccak256": "0x727e601a0d6dfd81d655c096de32344249345986cab5232a04c75c24b88d4048",
+			"urls": [
+				"bzz-raw://cd01208d0044405a0cb94a6aaf5e36482e0d0011475ac7701c21c1e105a01b41",
+				"dweb:/ipfs/Qmdg1gvd1AXP3sR6EibADNDn6s9ohtXkp2jx843F4v4hh9"
+			]
+		}
+	},
+	"version": 1
+}
